@@ -1,5 +1,6 @@
-# Python_patten_print
+# Chat with Python
 This is one basic python project,In this project i mainly focus on the patters 
+Here before user entering to the chat Some advance checks are done to verify whether user is human or not.
 
 There are two file in Repsoitory
 1.Character.py
