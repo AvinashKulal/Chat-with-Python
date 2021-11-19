@@ -36,5 +36,6 @@ jobs:
           echo test, and deploy your project.
           echo list a directory
           ls -a
+          touch test.txt
           echo #
           echo file created
